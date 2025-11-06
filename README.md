@@ -45,7 +45,7 @@ Depois de 10 anos atuando com **Marketing e Design Gráfico**, decidi unir minha
 
 ## 🌐 Acesse o projeto
 
-🔗 [Clique aqui para visualizar o projeto online](https://patriciadeodato.github.io/portfolio)
+🔗 [Clique aqui para visualizar o projeto online] (https://portfolio-mu-two-76.vercel.app/)
 
 ---
 
@@ -58,3 +58,4 @@ Depois de 10 anos atuando com **Marketing e Design Gráfico**, decidi unir minha
 ---
 
 ✨ *Projeto desenvolvido com base nos cursos da [Alura](https://www.alura.com.br/), muita água 💧 e curiosidade por código.*
+
